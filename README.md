@@ -1,6 +1,6 @@
 # 🏛️ GovTech GraphRAG Engine
 
-[!App View](Screenshot.png)
+![App View](Screenshot.png)
 
  A Knowledge Graph-based Retrieval Augmented Generation (RAG) system designed for complex policy and legal document analysis.
 

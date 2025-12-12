@@ -1,0 +1,7 @@
+python-dotenv==1.0.0
+llama-index==0.10.30
+llama-index-graph-stores-neo4j
+llama-index-llms-gemini         # Changed from openai
+llama-index-embeddings-gemini   # Changed from openai
+neo4j==5.19.0
+streamlit

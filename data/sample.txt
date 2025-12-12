@@ -1,0 +1,15 @@
+DIGITAL CITIZENSHIP ACT OF ESTONIA (2025)
+
+SECTION 1: E-RESIDENCY EXPANSION
+1.1. The E-Residency Board (hereinafter "The Board") is authorized to grant digital identity status to non-residents.
+1.2. All applicants must submit biometric data to the Police and Border Guard Board.
+1.3. E-Residents are eligible to register companies in Estonia within 15 minutes via the Company Registration Portal.
+
+SECTION 2: DIGITAL NOMAD TAXATION
+2.1. Digital Nomads residing in Estonia for less than 183 days are exempt from local income tax if their primary employer is foreign.
+2.2. This exemption does not apply to social tax contributions, which must be paid to the Estonian Tax and Customs Board.
+2.3. Clause 2.1 is void if the Digital Nomad performs work for a local Estonian entity.
+
+SECTION 3: AI SAFETY COMPLIANCE
+3.1. All AI systems deployed by the government must adhere to the Nortal Safety Standard.
+3.2. The Data Protection Inspectorate monitors compliance with Section 3.1.
